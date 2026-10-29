@@ -1,0 +1,488 @@
+{
+    "routine_title": "IELTS CANDIDATE'S DAILY ROUTINE",
+    "creator": "Speaking Nest",
+    "duration": "5 hours daily for 2 months = 300 hours",
+    "quote": "You can achieve Anything",
+    "schedule": [
+        {
+            "day": "Day 1",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "suffix prefix [1][cite: 1]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening part 1 Test + Analysis[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 2",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "suffix prefix [2][cite: 1]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening part 1-Test + Analysis[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 3",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "Noun[cite: 1]",
+            "hour_3": "Learning 10 Idiom + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening part 1-Test + Analysis[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 4",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "Pronoun[cite: 1]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening part 1-Test + Analysis[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 5",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "Verbs [1][cite: 1]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening Map vocabulary[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 6",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "Verbs [2][cite: 1]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening Map vocabulary[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 7",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "Modal Verbs[cite: 1]",
+            "hour_3": "Learning 10 Idiom + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening Map solve + analysis[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 8",
+            "hour_1": "Article reading[cite: 1]",
+            "hour_2": "Tense [present][cite: 1]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 1]",
+            "hour_4": "Listening Map solve + analysis[cite: 1]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 1]"
+        },
+        {
+            "day": "Day 9",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Tense[cite: 2]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening MCQ Strategy class[cite: 2]",
+            "hour_5": "Speaking part-1 Question type [sample reading][cite: 2]"
+        },
+        {
+            "day": "Day 10",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Tense[cite: 2]",
+            "hour_3": "Learning 10 Idiom + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening MCQ solve + analysis[cite: 2]",
+            "hour_5": "Speaking part-2 Person[cite: 2]"
+        },
+        {
+            "day": "Day 11",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Tense[cite: 2]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening MCQ Strategy class[cite: 2]",
+            "hour_5": "Speaking part-2 Person[cite: 2]"
+        },
+        {
+            "day": "Day 12",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Tense[cite: 2]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening MCQ solve + analysis[cite: 2]",
+            "hour_5": "Speaking part-2 Place[cite: 2]"
+        },
+        {
+            "day": "Day 13",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Connectors[cite: 2]",
+            "hour_3": "Learning 10 Idiom + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening MCQ solve + analysis[cite: 2]",
+            "hour_5": "Speaking part-2 Place[cite: 2]"
+        },
+        {
+            "day": "Day 14",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Connectors[cite: 2]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening MCQ solve + analysis[cite: 2]",
+            "hour_5": "Speaking part-2 Place[cite: 2]"
+        },
+        {
+            "day": "Day 15",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Conditionals[cite: 2]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening Matching Information Strategy Class[cite: 2]",
+            "hour_5": "Speaking part-2 Place[cite: 2]"
+        },
+        {
+            "day": "Day 16",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Simple sentence[cite: 2]",
+            "hour_3": "Learning 10 Idiom + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening Matching Information solve + analysis[cite: 2]",
+            "hour_5": "Speaking part-2 Activity + Past Event[cite: 2]"
+        },
+        {
+            "day": "Day 17",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Compound Sentence[cite: 2]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening Part 4 Strategy Class[cite: 2]",
+            "hour_5": "Speaking part-2 Activity + Past Event[cite: 2]"
+        },
+        {
+            "day": "Day 18",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Compound Sentence [practice][cite: 2]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening Part 4 solve + analysis[cite: 2]",
+            "hour_5": "Speaking part-2 [sample reading][cite: 2]"
+        },
+        {
+            "day": "Day 19",
+            "hour_1": "Article reading[cite: 2]",
+            "hour_2": "Complex Sentence[cite: 2]",
+            "hour_3": "Learning 10 Idiom + Listen Ted Talk[cite: 2]",
+            "hour_4": "Listening Full Test[1]+ part 1 & 2 mistake analysis[cite: 2]",
+            "hour_5": "Speaking part-3 [sample reading][cite: 2]"
+        },
+        {
+            "day": "Day 20",
+            "hour_1": "Article reading[cite: 3]",
+            "hour_2": "Complex Sentence[practice][cite: 3]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 3]",
+            "hour_4": "Listening Full Test [1] part 3 & 4 mistake analysis[cite: 3]",
+            "hour_5": "Speaking part-3 [sample reading][cite: 3]"
+        },
+        {
+            "day": "Day 21",
+            "hour_1": "Article reading[cite: 3]",
+            "hour_2": "Active Passive Sentence[cite: 3]",
+            "hour_3": "Learning 10 Idiom + Listen Ted Talk[cite: 3]",
+            "hour_4": "Listening Full Test [2]+ part 1 & 2 mistake analysis[cite: 3]",
+            "hour_5": "Speaking part-3 [sample reading][cite: 3]"
+        },
+        {
+            "day": "Day 22",
+            "hour_1": "Article reading[cite: 3]",
+            "hour_2": "Active Passive Sentence[cite: 3]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 3]",
+            "hour_4": "Listening Full Test [2]+ part 3 & 4 mistake analysis[cite: 3]",
+            "hour_5": "Speaking part-3 [sample reading][cite: 3]"
+        },
+        {
+            "day": "Day 23",
+            "hour_1": "Article reading[cite: 3]",
+            "hour_2": "Write 50 Sentences[cite: 3]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 3]",
+            "hour_4": "Listening Full Test [3]+ part 1 & 2 mistake analysis[cite: 3]",
+            "hour_5": "Speaking part-3 [sample reading][cite: 3]"
+        },
+        {
+            "day": "Day 24",
+            "hour_1": "Article reading[cite: 3]",
+            "hour_2": "Write 50 Sentences[cite: 3]",
+            "hour_3": "Cambridge Passage Vocabulary + Listen Ted Talk[cite: 3]",
+            "hour_4": "Listening Full Test [3]+ part 3 & 4 mistake analysis[cite: 3]",
+            "hour_5": "Speaking part-3 [sample reading][cite: 3]"
+        },
+        {
+            "day": "Day 25",
+            "hour_1": "Article reading + Writing[cite: 3]",
+            "hour_2": "Writing Task-1[cite: 3]",
+            "hour_3": "Reading Fill in The Blanks[cite: 3]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 3]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 3]"
+        },
+        {
+            "day": "Day 26",
+            "hour_1": "Article reading + Writing[cite: 3]",
+            "hour_2": "Writing Task-1[cite: 3]",
+            "hour_3": "Reading Fill in The Blanks[cite: 3]",
+            "hour_4": "Read Writing task-1 Samples + Reading Vocabularies[cite: 3]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 3]"
+        },
+        {
+            "day": "Day 27",
+            "hour_1": "Article reading + Writing[cite: 3]",
+            "hour_2": "Writing Task-1[cite: 3]",
+            "hour_3": "Reading True/False/ Not Given[cite: 3]",
+            "hour_4": "Listening Full Test [4]+ Analysis[cite: 3]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 3]"
+        },
+        {
+            "day": "Day 28",
+            "hour_1": "Article reading + Writing[cite: 3]",
+            "hour_2": "Writing Task-1[cite: 3]",
+            "hour_3": "Reading True/False/ Not Given[cite: 3]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 3]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 3]"
+        },
+        {
+            "day": "Day 29",
+            "hour_1": "Article reading + Writing[cite: 3]",
+            "hour_2": "Writing Task-1[cite: 3]",
+            "hour_3": "Reading Fill in The Blanks + True/False/ Not Given[cite: 3]",
+            "hour_4": "Read Writing task-1 Samples + Reading Vocabularies[cite: 3]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 3]"
+        },
+        {
+            "day": "Day 30",
+            "hour_1": "Article reading + Writing[cite: 3]",
+            "hour_2": "Writing Task-1[cite: 3]",
+            "hour_3": "Reading MCQ[cite: 3]",
+            "hour_4": "Listening Full Test[5]+ Analysis[cite: 3]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 3]"
+        },
+        {
+            "day": "Day 31",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-1[cite: 4]",
+            "hour_3": "Reading MCQ[cite: 4]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 4]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 32",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-1[cite: 4]",
+            "hour_3": "Reading Summary[cite: 4]",
+            "hour_4": "Read Writing task-1 Samples + Reading Vocabularies[cite: 4]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 33",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-1[cite: 4]",
+            "hour_3": "Reading Summary[cite: 4]",
+            "hour_4": "Listening Full Test[6]+ Analysis[cite: 4]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 34",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-1[cite: 4]",
+            "hour_3": "Reading Yes/NO/not GIVEN[cite: 4]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 4]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 35",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-1[cite: 4]",
+            "hour_3": "Reading Yes/NO/not GIVEN[cite: 4]",
+            "hour_4": "Read Writing task-1 Samples + Reading Vocabularies[cite: 4]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 36",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-1[cite: 4]",
+            "hour_3": "Reading MCQ+ Summary+ Yes/NO/not GIVEN[cite: 4]",
+            "hour_4": "Listening Full Test[7]+ Analysis[cite: 4]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 37",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-2[cite: 4]",
+            "hour_3": "Reading List Of Names[cite: 4]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 4]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 38",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-2[cite: 4]",
+            "hour_3": "Reading List Of Names[cite: 4]",
+            "hour_4": "Read Writing task-2 Samples + Reading Vocabularies[cite: 4]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 39",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-2[cite: 4]",
+            "hour_3": "Scientific Passage + Sentence Endings[cite: 4]",
+            "hour_4": "Listening Full Test[8]+ Analysis[cite: 4]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 40",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-2[cite: 4]",
+            "hour_3": "Scientific Passage + Sentence Endings[cite: 4]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 4]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 41",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-2[cite: 4]",
+            "hour_3": "Scientific Passage + Sentence Endings[cite: 4]",
+            "hour_4": "Read Writing task-2 Samples + Reading Vocabularies[cite: 4]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 4]"
+        },
+        {
+            "day": "Day 42",
+            "hour_1": "Article reading + Writing[cite: 4]",
+            "hour_2": "Writing Task-2[cite: 4]",
+            "hour_3": "Scientific Passage + Sentence Endings[cite: 5]",
+            "hour_4": "Listening Full Test[9]+ Analysis[cite: 5]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 43",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-1[cite: 5]",
+            "hour_3": "Reading Passage Full Test 1[cite: 5]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 5]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 44",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-2[cite: 5]",
+            "hour_3": "Reading Passage Full Test 1 Analysis[cite: 5]",
+            "hour_4": "Read Writing task-2 Samples + Reading Vocabularies[cite: 5]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 45",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-1[cite: 5]",
+            "hour_3": "Reading Passage Full Test 2[cite: 5]",
+            "hour_4": "Listening Full Test[10]+ Analysis[cite: 5]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 46",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-2[cite: 5]",
+            "hour_3": "Reading Passage Full Test 2 Analysis[cite: 5]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 5]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 47",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-1[cite: 5]",
+            "hour_3": "Reading Passage Full Test 3[cite: 5]",
+            "hour_4": "Read Writing task-2 Samples + Reading Vocabularies[cite: 5]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 48",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-2[cite: 5]",
+            "hour_3": "Reading Passage Full Test 3 Analysis[cite: 5]",
+            "hour_4": "Listening Full Test[11]+ Analysis[cite: 5]",
+            "hour_5": "Practice Speaking 3+ + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 49",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-1[cite: 5]",
+            "hour_3": "Reading Passage Full Test 4[cite: 5]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 5]",
+            "hour_5": "Practice Speaking Part 1 + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 50",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-2[cite: 5]",
+            "hour_3": "Reading Passage Full Test 4 Analysis[cite: 5]",
+            "hour_4": "Read Writing task-2 Samples + Reading Vocabularies[cite: 5]",
+            "hour_5": "Practice Speaking Part 2 + Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 51",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-1[cite: 5]",
+            "hour_3": "Reading Passage Full Test 5[cite: 5]",
+            "hour_4": "Listening Full Test[12]+ Analysis[cite: 5]",
+            "hour_5": "Practice Speaking 3+ Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 52",
+            "hour_1": "Article reading + Writing[cite: 5]",
+            "hour_2": "Writing Task-2[cite: 5]",
+            "hour_3": "Reading Passage Full Test 5 Analysis[cite: 5]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 5]",
+            "hour_5": "Practice Speaking 3+ Learn Topic Vocabulary[cite: 5]"
+        },
+        {
+            "day": "Day 53",
+            "hour_1": "MOCK TEST[cite: 5]",
+            "hour_2": "MOCK TEST[cite: 5]",
+            "hour_3": "MOCK TEST[cite: 5]",
+            "hour_4": "MOCK TEST[cite: 5]",
+            "hour_5": "MOCK TEST[cite: 5]"
+        },
+        {
+            "day": "Day 54",
+            "hour_1": "Article reading + Writing[cite: 6]",
+            "hour_2": "Read Writing task-2 ideas[cite: 6]",
+            "hour_3": "Reading Passage 6 Full Test[cite: 6]",
+            "hour_4": "Read Writing task-2 Samples + Reading Vocabularies[cite: 6]",
+            "hour_5": "Practice Speaking all Modules+ + Learn Topic Vocabulary[cite: 6]"
+        },
+        {
+            "day": "Day 55",
+            "hour_1": "Article reading + Writing[cite: 6]",
+            "hour_2": "Write Writing Task-1 & Task 2[cite: 6]",
+            "hour_3": "Reading Passage Full Test 6 Analysis[cite: 6]",
+            "hour_4": "Listening Full Test[13]+ Analysis[cite: 6]",
+            "hour_5": "Practice Speaking all Modules+ + Learn Topic Vocabulary[cite: 6]"
+        },
+        {
+            "day": "Day 56",
+            "hour_1": "Article reading + Writing[cite: 6]",
+            "hour_2": "Read Writing task-2 ideas[cite: 6]",
+            "hour_3": "Reading Most Frequent Mistake Analysis[cite: 6]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 6]",
+            "hour_5": "Practice Speaking all Modules+ + Learn Topic Vocabulary[cite: 6]"
+        },
+        {
+            "day": "Day 57",
+            "hour_1": "Article reading + Writing[cite: 6]",
+            "hour_2": "Write Writing Task-1 & Task 2[cite: 6]",
+            "hour_3": "Reading Most Frequent Mistake Analysis[cite: 6]",
+            "hour_4": "Read Writing task-2 Samples + Reading Vocabularies[cite: 6]",
+            "hour_5": "Practice Speaking all Modules+ + Learn Topic Vocabulary[cite: 6]"
+        },
+        {
+            "day": "Day 58",
+            "hour_1": "Article reading + Writing[cite: 6]",
+            "hour_2": "Read Writing task-2 ideas[cite: 6]",
+            "hour_3": "Reading Passage Full Test 7 + Analysis[cite: 6]",
+            "hour_4": "Listening Full Test[14]+ Analysis[cite: 6]",
+            "hour_5": "Practice Speaking all Modules+ + Learn Topic Vocabulary[cite: 6]"
+        },
+        {
+            "day": "Day 59",
+            "hour_1": "Article reading + Writing[cite: 6]",
+            "hour_2": "Write Writing Task-1 & Task 2[cite: 6]",
+            "hour_3": "Reading Passage Full Test 8 +Analysis[cite: 6]",
+            "hour_4": "Listen Ted Talk+ practice shadowing[cite: 6]",
+            "hour_5": "Practice Speaking all Modules+ + Learn Topic Vocabulary[cite: 6]"
+        },
+        {
+            "day": "Day 60",
+            "hour_1": "MOCK TEST[cite: 6]",
+            "hour_2": "MOCK TEST[cite: 6]",
+            "hour_3": "MOCK TEST[cite: 6]",
+            "hour_4": "MOCK TEST[cite: 6]",
+            "hour_5": "MOCK TEST[cite: 6]"
+        }
+    ]
+}
